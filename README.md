@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是陈丽玲
+🌱 I’m currently learning Jimei University; Nice to meet you!
 <!--
 **cliling/cliling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
